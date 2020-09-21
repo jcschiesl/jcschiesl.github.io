@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Projects
 This is a link to my first "Hello World Program" (https://github.com/jcschiesl/Hello_World_Program_Python.git)
 
+Next I completed a MPG to KPL converter (https://github.com/jcschiesl/functions.git)
 
 ### Markdown
 
