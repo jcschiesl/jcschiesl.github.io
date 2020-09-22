@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/jcschiesl/jcschiesl.gethub
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Projects
-This is a link to my first "Hello World Program" (https://github.com/jcschiesl/Hello_World_Program_Python.git)
+This is a link to my first "Hello World Program" [Link](https://github.com/jcschiesl/Hello_World_Program_Python.git)
 
-Next I completed a MPG to KPL converter (https://github.com/jcschiesl/functions.git)
+Next I completed a MPG to KPL converter [Link](https://github.com/jcschiesl/functions.git)
 
 ### Markdown
 
