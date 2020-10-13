@@ -11,8 +11,10 @@ Next I completed a MPG to KPL converter [Link](https://github.com/jcschiesl/func
 ![Here's a screenshot ot it working! ](functionss.png)
 
 Learning how to use tests with a TDD converter [Link](https://github.com/jcschiesl/converters_tdd.git)
+![A screenshot of a failing test](tddfail.png)
 
-<img src="Users\Jacks\OneDrive\Pictures\Screenshots\screenshot1">
+![A screenshot of all 5 tests passing](tddpass.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
