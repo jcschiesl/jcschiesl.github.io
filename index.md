@@ -8,7 +8,7 @@ This is a link to my first "Hello World Program" [Link](https://github.com/jcsch
 
 Next I completed a MPG to KPL converter [Link](https://github.com/jcschiesl/functions.git)
 
-![functionscreenshot](functionss.jpg)
+![Here's a screenshot ot it working! ](functionss.png)
 
 Learning how to use tests with a TDD converter [Link](https://github.com/jcschiesl/converters_tdd.git)
 
