@@ -57,5 +57,9 @@ This diagram represents the exact wiring setup I will use as soon as my 5v power
 
 As soon as I have all of the materials needed to operate this strip I will manipulate example test code as well as my own code to 
 display various animations. My deivery time estimates I will receive my package mid next week. 
-Ultimately I have the intention of creating an "infinity coaster" as a proof of concept for myself that I can be creative and successful with Python.
+Ultimately I have the intention of creating an "infinity mirror" as a proof of concept for myself that I can be creative and successful with Python.
 
+Here's an idea for what I hope to be the end result.
+
+![Image of infinity mirror](mirror.jpg)
+Source:[Link](https://www.rs-online.com/designspark/lights-fantastic-infinity-mirror)
