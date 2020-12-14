@@ -30,7 +30,7 @@ in one of Dr. Benton's weekly team meetings, I saw the ability to write code to 
 Specifically, Dr. Benton showed me a pair of super-PLUR custom LED glasses which I frankly thought were epic. It was after this 
 meeting in which my adenture into CircuitPython began. 
 
-***Materials
+### Materials
 
 - 3.7v 500mAh battery
 - 1/2 m DotStar LED strip
@@ -40,7 +40,7 @@ meeting in which my adenture into CircuitPython began.
 - Adafruit Feather m0 Express
 ![Image of m0 Processor](board.jpg)
 
-***Early Findings
+### Findings
 
 After reaseraching and understanding the basics of how to correctly wire the LED strip to this controller, I found a red flag. 
 I had assumed that the 3.7v battery that plugs into the Feather m0 would also be the source of power for the LED's. This
@@ -50,16 +50,15 @@ as now a second power source must be wired in.
 I found this universal 5 volt power adapter that comes with the correct (highlighted) adapter piece to easily wire in a power connection.
 ![Image of 5v adapter](wall.png)
 
+With this new information I had to understand how I would include the input power lines for the LED's and where they reside on the m0.
 
-
-`
 
 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+```
 Syntax highlighted code block
 
 # Header 1
@@ -75,7 +74,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
