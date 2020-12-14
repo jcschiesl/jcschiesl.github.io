@@ -52,36 +52,10 @@ I found this universal 5 volt power adapter that comes with the correct (highlig
 
 With this new information I had to understand how I would include the input power lines for the LED's and where they reside on the m0.
 
+This diagram represents the exact wiring setup I will use as soon as my 5v power supply and alligator clips arrive to power on the light strip.
+![Image of wiring diagram](pins.png)
 
+As soon as I have all of the materials needed to operate this strip I will manipulate example test code as well as my own code to 
+display various animations. My deivery time estimates I will receive my package mid next week. 
+Ultimately I have the intention of creating an "infinity coaster" as a proof of concept for myself that I can be creative and successful with Python.
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcschiesl/jcschiesl.gethub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
